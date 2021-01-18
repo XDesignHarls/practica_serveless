@@ -1,2 +1,2 @@
 # practica_serveless
-prueba con serveless usando vercel
+practica de serveless usando vercel
