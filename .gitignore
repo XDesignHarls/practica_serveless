@@ -1,4 +1,5 @@
 .vercel
-now.json
-package-lock.json
-package.json
+.now.json
+.package-lock.json
+.package.json
+.env
